@@ -1,3 +1,3 @@
 # hello-world
-repository
+repository\n
 Editing this branch
