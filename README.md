@@ -1,3 +1,4 @@
 # hello-world
-repository\n
+repository
+
 Editing this branch
